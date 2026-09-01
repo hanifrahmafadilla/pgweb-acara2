@@ -1,3 +1,3 @@
 # pgweb-acara2
 
-[https://github.com/hanifrahmafadilla/pgweb-acara2.git](https://github.com/hanifrahmafadilla/pgweb-acara2.git)
+[ https://hanifrahmafadilla.github.io/pgweb-acara2/]( https://hanifrahmafadilla.github.io/pgweb-acara2/)
